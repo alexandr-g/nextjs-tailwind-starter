@@ -1,5 +1,5 @@
 {
-  "name": "next-tailwind",
+  "name": "next-tailwind-example",
   "version": "1.0.0",
   "description": "A minimalist NextJS + TailwindCSS example setup",
   "main": "index.js",
