@@ -8,8 +8,6 @@ In the project root directory, you can run:
 
 - `npm run dev` - runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-- `yarn test` - launches the test runner in the interactive watch mode.
-
 - `npm run build` - builds the app for production.
 
 - `npm start` - serves `npm run build` output on the `http://localhost:3000`
