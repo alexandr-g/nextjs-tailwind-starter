@@ -14,9 +14,9 @@ export default () => (
       </ul>
     </nav>
 
-    <h1 className="text-6xl my-auto mx-auo md:mx-48">
+    <h1 className="text-6xl my-auto mx-auto mt-40 md:mx-48">
       NextJS <br />
-      <span className="text-teal-400">+ Tailwind CSS Example</span>
+      <span className="text-teal-400 ml-20">+ Tailwind CSS Example</span>
     </h1>
   </section>
 )
