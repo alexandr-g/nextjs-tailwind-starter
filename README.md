@@ -19,3 +19,9 @@ In the project root directory you can run:
 - `npm run build` - builds the app for production.
 
 - `npm start` - serves `npm run build` output on the `http://localhost:3000`
+
+## Notes
+
+- Alternatively to direct dependency on `autoprefixer`, you could install and add [postcss-preset-env](https://preset-env.cssdb.org/) plugin in the `postcss.config.js` file.
+
+- To remove unused CSS, this example uses Tailwind CSS' [`purge` option](https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css)
