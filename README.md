@@ -24,4 +24,4 @@ In the project root directory you can run:
 
 - Alternatively to direct dependency on `autoprefixer`, you could install and add [postcss-preset-env](https://preset-env.cssdb.org/) plugin in the `postcss.config.js` file.
 
-- To remove unused CSS, this example uses Tailwind CSS' [`purge` option](https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css)
+- To remove unused CSS, this example uses Tailwind CSS [`purge` option](https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css).
