@@ -1,7 +1,7 @@
 {
   "name": "next-tailwind-example",
-  "version": "1.0.0",
-  "description": "A minimalist NextJS + TailwindCSS example setup",
+  "version": "2.0.0",
+  "description": "A minimalist NextJS + Tailwind CSS v2 example setup",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -19,6 +19,17 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.0.2",
+    "postcss": "^8.1.10",
     "tailwindcss": "^2.0.1"
+  },
+  "peerDependencies": {
+    "postcss": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=12.13"
+  },
+  "volta": {
+    "node": "14.15.1",
+    "npm": "6.14.8"
   }
 }
