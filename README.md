@@ -1,10 +1,10 @@
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=alexandr-g/nextjs-tailwind-example)](https://dependabot.com)
 
-# A minimalist NextJS + TailwindCSS example setup
+# A minimalist NextJS v10 + TailwindCSS v2 example setup
 
-An example uses a minimum setup for [NextJS](https://nextjs.org/) in combination with [Tailwind](https://tailwindcss.com/) for styling. You can clone or fork a repository to play around or use it for your needs.
+An example uses a minimum setup for [NextJS](https://nextjs.org/) in combination with [Tailwind v2](https://tailwindcss.com/) for styling. You can clone or fork a repository to play around or use it for your needs.
 
-<img width="1792" alt="Screenshot 2020-05-20 at 17 38 47" src="https://user-images.githubusercontent.com/9251327/82466503-c8b62500-9ac0-11ea-9240-944ca2cdcc3b.png">
+<img width="1792" alt="Screenshot 2020-05-20 at 17 38 47" src="https://user-images.githubusercontent.com/9251327/100365006-2a6ec300-2fff-11eb-83ca-f474adee5a85.png">
 
 ## Demo
 
