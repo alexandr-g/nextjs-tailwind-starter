@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.1.0",
-    "postcss": "^8.2.2",
+    "postcss": "^8.2.3",
     "tailwindcss": "^2.0.2"
   },
   "peerDependencies": {
