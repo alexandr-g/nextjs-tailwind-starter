@@ -1,0 +1,17 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "04:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: next
+    versions:
+    - 10.0.8
+    - 10.1.1
+    - 10.1.2
+  - dependency-name: postcss
+    versions:
+    - 8.2.5
