@@ -25,7 +25,7 @@ export default function Index() {
               href="https://tailwindcss.com/"
               className="hover:text-blue-500"
             >
-              Tailwind CSS v2
+              Tailwind CSS v3
             </a>
           </span>
           <br />
