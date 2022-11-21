@@ -10,7 +10,7 @@ export default function Index() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Made by Alexander Grischuk
+              Made by Oleksandr Hrishchuk
             </a>
           </ul>
         </nav>

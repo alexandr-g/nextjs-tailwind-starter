@@ -16,7 +16,7 @@
     "setup",
     "minimalist"
   ],
-  "author": "Alexander Grischuk <alexgrischuk@gmail.com>",
+  "author": "Oleksandr Hrishchuk <alexgrischuk@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "next": "^13.0.4",
