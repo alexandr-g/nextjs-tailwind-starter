@@ -1,7 +1,7 @@
 {
   "name": "next-tailwind-example",
-  "version": "2.0.0",
-  "description": "A minimalist NextJS + Tailwind CSS v2 example setup",
+  "version": "3.0.0",
+  "description": "A minimalist NextJS + Tailwind CSS kit",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -9,11 +9,17 @@
     "start": "next start",
     "test": "echo \"Error: no test setup specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Alexander Grischuk <alexgrischuk@gmail.com>",
+  "keywords": [
+    "nextjs",
+    "tailwindcss",
+    "example",
+    "setup",
+    "minimalist"
+  ],
+  "author": "Oleksandr Hrishchuk <alexgrischuk@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "next": "^12.3.1",
+    "next": "^13.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
