@@ -1,4 +1,4 @@
-import '../styles/tailwind.css'
+import '../styles/dist.css'
 
 export default function RootLayout({ children }) {
   return (
