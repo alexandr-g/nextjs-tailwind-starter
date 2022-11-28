@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "concurrently \"next dev --turbo\" \"npm run tailwind -- --watch\"",
-    "build": "tailwindcss -i styles/tailwind.css --output styles/dist.css && next build",
+    "build": "tailwindcss -i styles/tailwind.css -o styles/dist.css && next build",
     "tailwind": "tailwindcss -i styles/tailwind.css -o styles/dist.css",
     "start": "next start"
   },
